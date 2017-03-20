@@ -1,0 +1,71 @@
+body {
+	.page {
+	     width: 100%;
+	     height: 100%;
+	     position: absolute;
+	     padding: 0;
+		.home{
+			background: #c3bfc3;
+		    background-position: 50% 50%;
+		    background-repeat: no-repeat;
+		    background-size: cover;
+		    padding: 0;
+		    .fp-tableCell {
+		    	vertical-align: top;
+		    }
+			.navbar-wrapper {
+				.container-fluid {
+					padding: 0;
+					.navbar {
+						background: #f16d9a;
+						border: none;
+						.btn {
+						    background: #ffffff;
+						    border-radius: 30px;
+						    color: #f16d9a;
+					        box-shadow: none;
+    						text-shadow: none;
+						    border: none;
+						}
+						.container-fluid {
+							.navbar-header {
+								width: 100%;
+								p {
+									color: #ffffff;
+									/* display: inline-block; */
+								}
+							}
+							.navbar-collapse {
+								ul.nav{
+									width: 100%;
+									li {
+										float: none;
+										display: inline-block;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			.home_content {
+				.form-signin {
+					h2, input, button, label {
+						margin-bottom: 20px;
+					}
+				}
+			}
+		}
+		.identification {
+			background: #e2e3e8;
+		    background-position: 50% 50%;
+		    background-repeat: no-repeat;
+		    background-size: cover;
+		    .starter-template {
+		    	h2 {
+		    		margin-top: 0;
+		    	}
+		    }
+		}		
+	}
+}

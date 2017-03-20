@@ -1,0 +1,23 @@
+.circle {
+    height: calc(100% - 145.27px);
+	background: url('../images/bg_1.png');
+    background-size: cover;
+    background-position: 50% 50%;
+	.container {
+		 .transparent {
+	 		width: 100px;
+			height: 100px;
+			background: red;
+			-moz-border-radius: 50px;
+			-webkit-border-radius: 50px;
+			border-radius: 50px;
+			position: absolute;
+		 }
+		.circleLeft_content {
+
+		}
+		.circleRight_content {
+
+		}
+	}
+}

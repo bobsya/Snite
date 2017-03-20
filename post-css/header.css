@@ -1,0 +1,52 @@
+body .page .section.blue {
+    background: #62bde0;
+}
+body .page .section {
+    font-family: 'BlissProLight';
+}
+body .page .section .navbar {
+    position: relative;
+    background: #00bce4;
+    border-bottom: 4px solid #008aa7;
+    margin-bottom: 0;
+}
+body .page .section .navbar .container p.call {
+    color: #ffffff;
+    font-size: 16px;
+}
+body .page .section .navbar .container a.navbar-brand, body .page .section .navbar .container a.navbar-brand:focus, body .page .section .navbar .container a.navbar-brand:active {
+    text-decoration: none;
+    border: none;
+    color: #ffffff;
+    font-size: 10px;
+}
+body .page .section .navbar .container .menuCenter {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+body .page .section .navbar .container .menuCenter .callback {
+    margin-top: 18px;
+    margin-bottom: 30px;
+}
+body .page .section .navbar .container .menuCenter .callback .btn-lg {
+    background: #ffffff;
+    color: #00bce4;
+    border: none;
+    border-radius: 30px;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a:hover, body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a:focus {
+    background: none;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a p {
+    color: #ffffff;
+    text-transform: uppercase;
+    display: inline;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li.active a {
+    background: none;
+    box-shadow: none;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li.active a p {
+    border-bottom: 2px solid;
+    padding-bottom: 0px;
+}

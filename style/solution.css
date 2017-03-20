@@ -1,0 +1,33 @@
+.headerSolution {
+	background: #ffffff;
+	h2.mainFonts {
+		font-size: 48px;
+		color: #393939;
+	}
+	p {
+		font-size: 24px;
+	}
+}
+.solutionsPage {
+	width: 260px;
+	.solutions {
+		width: 260px;
+		img {
+		    border-radius: 20px;
+		}
+		p{
+			background: #ffffff;
+		    height: 150px;
+		    padding-top: 40px;
+		    border-radius: 20px;
+		    margin-top: -35px;
+		}
+
+	}
+	p {
+		a, a:hover, a:focus, a:active {
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+	}
+}

@@ -1,0 +1,15 @@
+.circle {
+    height: calc(100% - 145.27px);
+	background: url('../images/bg_1.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.circle .container .transparent {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50px;
+    position: absolute;
+}
+.circle .container .circleLeft_content {}
+.circle .container .circleRight_content {}

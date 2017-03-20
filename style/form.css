@@ -1,0 +1,45 @@
+div.bs-example {
+	background: #ffffff;
+    border-radius: 20px;
+    padding-top: 45px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+button.btn-default,  button.btn-default:hover, button.btn-default:focus, button.btn-default:active, button.btn-default:active:focus,
+a.btn-default,  a.btn-default:hover, a.btn-default:focus, a.btn-default:active, a.btn-default:active:focus {
+    background: #53addc;
+    border: none;
+    text-shadow: none;
+    border-radius: 45px;
+    color: #ffffff;
+    outline: none;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 100%;
+    font-size: 24px;
+}
+input.form-control {
+	background: #e1e1e1;
+	border-radius: 30px;
+}
+label.mainFonts {
+	color: #000000;
+}
+#exampleInputName {
+	margin-bottom: 15px;
+	margin-top: 45px;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	padding-left: 35px;
+    font-family: 'BlissProLightItalic';
+    font-size: 24px;
+}
+#exampleInputPhone {
+	margin-bottom: 50px;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	padding-left: 35px;
+    font-family: 'BlissProLightItalic';
+    font-size: 24px;
+}

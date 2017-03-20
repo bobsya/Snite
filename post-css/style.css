@@ -1,0 +1,316 @@
+@media (min-width: 1024px) {
+    .container {
+        width: 1320px !important;
+    }
+}
+body .page .section.blue {
+    background: #62bde0;
+}
+body .page .section {
+    font-family: 'BlissProLight';
+}
+body .page .section .navbar {
+    position: relative;
+    background: #00bce4;
+    border-bottom: 4px solid #008aa7;
+    margin-bottom: 0;
+}
+body .page .section .navbar .container p.call {
+    color: #ffffff;
+    font-size: 16px;
+}
+body .page .section .navbar .container a.navbar-brand, body .page .section .navbar .container a.navbar-brand:focus, body .page .section .navbar .container a.navbar-brand:active {
+    text-decoration: none;
+    border: none;
+    color: #ffffff;
+    font-size: 10px;
+}
+body .page .section .navbar .container .menuCenter {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+body .page .section .navbar .container .menuCenter .callback {
+    margin-top: 18px;
+    margin-bottom: 30px;
+}
+body .page .section .navbar .container .menuCenter .callback .btn-lg {
+    background: #ffffff;
+    color: #00bce4;
+    border: none;
+    border-radius: 30px;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a:hover, body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a:focus {
+    background: none;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li a p {
+    color: #ffffff;
+    text-transform: uppercase;
+    display: inline;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li.active a {
+    background: none;
+    box-shadow: none;
+}
+body .page .section .navbar .container .menuCenter .menu .navbar-collapse .nav-justified li.active a p {
+    border-bottom: 2px solid;
+    padding-bottom: 0px;
+}
+.circle {
+    height: calc(100% - 145.27px);
+    background: url('../images/bg_1.png');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.circle .container .transparent {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50px;
+    position: absolute;
+}
+.circle .container .circleLeft_content {}
+.circle .container .circleRight_content {}
+@font-face {
+    font-family: 'BlissPro';
+    src: url('../fonts/BlissPro.eot') format('eot'),
+      url('../fonts/BlissPro.woff') format('woff'),
+      url('../fonts/BlissPro.woff2') format('woff2'),
+      url('../fonts/BlissPro.ttf')  format('truetype'),
+      url('../fonts/BlissPro.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProLight';
+    src: url('../fonts/BlissPro-Light.eot') format('eot'),
+      url('../fonts/BlissPro-Light.woff') format('woff'),
+      url('../fonts/BlissPro-Light.woff2') format('woff2'),
+      url('../fonts/BlissPro-Light.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Light.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProExtraLightItalic';
+    src: url('../fonts/BlissPro-ExtraLightItalic.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraLightItalic.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraLightItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraLightItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraLightItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProExtraLight';
+    src: url('../fonts/BlissPro-ExtraLight.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraLight.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraLight.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraLight.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraLight.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProBold';
+    src: url('../fonts/BlissPro-Bold.eot') format('eot'),
+      url('../fonts/BlissPro-Bold.woff') format('woff'),
+      url('../fonts/BlissPro-Bold.woff2') format('woff2'),
+      url('../fonts/BlissPro-Bold.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Bold.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProLightItalic';
+    src: url('../fonts/BlissPro-LightItalic.eot') format('eot'),
+      url('../fonts/BlissPro-LightItalic.woff') format('woff'),
+      url('../fonts/BlissPro-LightItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-LightItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-LightItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProMedium';
+    src: url('../fonts/BlissPro-Medium.eot') format('eot'),
+      url('../fonts/BlissPro-Medium.woff') format('woff'),
+      url('../fonts/BlissPro-Medium.woff2') format('woff2'),
+      url('../fonts/BlissPro-Medium.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Medium.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProMediumItalic';
+    src: url('../fonts/BlissPro-MediumItalic.eot') format('eot'),
+      url('../fonts/BlissPro-MediumItalic.woff') format('woff'),
+      url('../fonts/BlissPro-MediumItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-MediumItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-MediumItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProRegular';
+    src: url('../fonts/BlissPro-Regular.eot') format('eot'),
+      url('../fonts/BlissPro-Regular.woff') format('woff'),
+      url('../fonts/BlissPro-Regular.woff2') format('woff2'),
+      url('../fonts/BlissPro-Regular.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Regular.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProExtraBoldItalic';
+    src: url('../fonts/BlissPro-ExtraBoldItalic.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraBoldItalic.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraBoldItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraBoldItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraBoldItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProBoldItalic';
+    src: url('../fonts/BlissPro-BoldItalic.eot') format('eot'),
+      url('../fonts/BlissPro-BoldItalic.woff') format('woff'),
+      url('../fonts/BlissPro-BoldItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-BoldItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-BoldItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProExtraBold';
+    src: url('../fonts/BlissPro-ExtraBold.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraBold.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraBold.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraBold.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraBold.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProHeavyItalic';
+    src: url('../fonts/BlissPro-HeavyItalic.eot') format('eot'),
+      url('../fonts/BlissPro-HeavyItalic.woff') format('woff'),
+      url('../fonts/BlissPro-HeavyItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-HeavyItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-HeavyItalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProItalic';
+    src: url('../fonts/BlissPro-Italic.eot') format('eot'),
+      url('../fonts/BlissPro-Italic.woff') format('woff'),
+      url('../fonts/BlissPro-Italic.woff2') format('woff2'),
+      url('../fonts/BlissPro-Italic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Italic.svg') format('svg');
+}
+@font-face {
+    font-family: 'BlissProHeavy';
+    src: url('../fonts/BlissPro-Heavy.eot') format('eot'),
+      url('../fonts/BlissPro-Heavy.woff') format('woff'),
+      url('../fonts/BlissPro-Heavy.woff2') format('woff2'),
+      url('../fonts/BlissPro-Heavy.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Heavy.svg') format('svg');
+}
+.mainFonts {
+    font-family: 'BlissProBold';
+    font-size: 24px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.mainFonts.big {
+    font-size: 36px;
+}
+.proItalic {
+    font-family: 'BlissProItalic';
+    font-size: 24px;
+}
+.lightItalic {
+    font-family: "BlissProLightItalic";
+    font-size: 18px;
+    color: #000000;
+}
+.normal {
+    font-family: 'BlissPro';
+    font-size: 24px;
+}
+div.bs-example {
+    background: #ffffff;
+    border-radius: 20px;
+    padding-top: 45px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+button.btn-default, button.btn-default:hover, button.btn-default:focus, button.btn-default:active, button.btn-default:active:focus, a.btn-default, a.btn-default:hover, a.btn-default:focus, a.btn-default:active, a.btn-default:active:focus {
+    background: #53addc;
+    border: none;
+    text-shadow: none;
+    border-radius: 45px;
+    color: #ffffff;
+    outline: none;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 100%;
+    font-size: 24px;
+}
+input.form-control {
+    background: #e1e1e1;
+    border-radius: 30px;
+}
+label.mainFonts {
+    color: #000000;
+}
+#exampleInputName {
+    margin-bottom: 15px;
+    margin-top: 45px;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    font-family: 'BlissProLightItalic';
+    font-size: 24px;
+}
+#exampleInputPhone {
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    font-family: 'BlissProLightItalic';
+    font-size: 24px;
+}
+div.block {
+    background: #f16d9a;
+    border-radius: 40px;
+    padding: 100px;
+}
+.headerSolution {
+    background: #ffffff;
+}
+.headerSolution h2.mainFonts {
+    font-size: 48px;
+    color: #393939;
+}
+.headerSolution p {
+    font-size: 24px;
+}
+.solutionsPage {
+    width: 260px;
+}
+.solutionsPage .solutions {
+    width: 260px;
+}
+.solutionsPage .solutions img {
+    border-radius: 20px;
+}
+.solutionsPage .solutions p {
+    background: #ffffff;
+    height: 150px;
+    padding-top: 40px;
+    border-radius: 20px;
+    margin-top: -35px;
+}
+.solutionsPage p a, .solutionsPage p a:hover, .solutionsPage p a:focus, .solutionsPage p a:active {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.iconBlockList {
+    color: #393939;
+}
+.iconBlockList h2 {
+    text-transform: uppercase;
+}
+.iconBlockList p {
+    font-size: 24px;
+}
+div.child {}
+.arrowGorizontalLeft {
+    margin-left: -923px;
+    margin-top: 51px;
+}
+.arrowGorizontalRight {
+    margin-left: 420px;
+    margin-top: 51px;
+}
+.child p {
+    color: #000000;
+    border: 8px solid #53addc;
+    border-radius: 25px;
+}

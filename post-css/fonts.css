@@ -1,0 +1,142 @@
+@font-face {
+ font-family: 'BlissPro';
+ src: url('../fonts/BlissPro.eot') format('eot'),
+      url('../fonts/BlissPro.woff') format('woff'),
+      url('../fonts/BlissPro.woff2') format('woff2'),
+      url('../fonts/BlissPro.ttf')  format('truetype'),
+      url('../fonts/BlissPro.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProLight';
+ src: url('../fonts/BlissPro-Light.eot') format('eot'),
+      url('../fonts/BlissPro-Light.woff') format('woff'),
+      url('../fonts/BlissPro-Light.woff2') format('woff2'),
+      url('../fonts/BlissPro-Light.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Light.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProExtraLightItalic';
+ src: url('../fonts/BlissPro-ExtraLightItalic.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraLightItalic.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraLightItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraLightItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraLightItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProExtraLight';
+ src: url('../fonts/BlissPro-ExtraLight.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraLight.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraLight.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraLight.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraLight.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProBold';
+ src: url('../fonts/BlissPro-Bold.eot') format('eot'),
+      url('../fonts/BlissPro-Bold.woff') format('woff'),
+      url('../fonts/BlissPro-Bold.woff2') format('woff2'),
+      url('../fonts/BlissPro-Bold.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Bold.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProLightItalic';
+ src: url('../fonts/BlissPro-LightItalic.eot') format('eot'),
+      url('../fonts/BlissPro-LightItalic.woff') format('woff'),
+      url('../fonts/BlissPro-LightItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-LightItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-LightItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProMedium';
+ src: url('../fonts/BlissPro-Medium.eot') format('eot'),
+      url('../fonts/BlissPro-Medium.woff') format('woff'),
+      url('../fonts/BlissPro-Medium.woff2') format('woff2'),
+      url('../fonts/BlissPro-Medium.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Medium.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProMediumItalic';
+ src: url('../fonts/BlissPro-MediumItalic.eot') format('eot'),
+      url('../fonts/BlissPro-MediumItalic.woff') format('woff'),
+      url('../fonts/BlissPro-MediumItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-MediumItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-MediumItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProRegular';
+ src: url('../fonts/BlissPro-Regular.eot') format('eot'),
+      url('../fonts/BlissPro-Regular.woff') format('woff'),
+      url('../fonts/BlissPro-Regular.woff2') format('woff2'),
+      url('../fonts/BlissPro-Regular.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Regular.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProExtraBoldItalic';
+ src: url('../fonts/BlissPro-ExtraBoldItalic.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraBoldItalic.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraBoldItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraBoldItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraBoldItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProBoldItalic';
+ src: url('../fonts/BlissPro-BoldItalic.eot') format('eot'),
+      url('../fonts/BlissPro-BoldItalic.woff') format('woff'),
+      url('../fonts/BlissPro-BoldItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-BoldItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-BoldItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProExtraBold';
+ src: url('../fonts/BlissPro-ExtraBold.eot') format('eot'),
+      url('../fonts/BlissPro-ExtraBold.woff') format('woff'),
+      url('../fonts/BlissPro-ExtraBold.woff2') format('woff2'),
+      url('../fonts/BlissPro-ExtraBold.ttf')  format('truetype'),
+      url('../fonts/BlissPro-ExtraBold.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProHeavyItalic';
+ src: url('../fonts/BlissPro-HeavyItalic.eot') format('eot'),
+      url('../fonts/BlissPro-HeavyItalic.woff') format('woff'),
+      url('../fonts/BlissPro-HeavyItalic.woff2') format('woff2'),
+      url('../fonts/BlissPro-HeavyItalic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-HeavyItalic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProItalic';
+ src: url('../fonts/BlissPro-Italic.eot') format('eot'),
+      url('../fonts/BlissPro-Italic.woff') format('woff'),
+      url('../fonts/BlissPro-Italic.woff2') format('woff2'),
+      url('../fonts/BlissPro-Italic.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Italic.svg') format('svg');
+}
+@font-face {
+ font-family: 'BlissProHeavy';
+ src: url('../fonts/BlissPro-Heavy.eot') format('eot'),
+      url('../fonts/BlissPro-Heavy.woff') format('woff'),
+      url('../fonts/BlissPro-Heavy.woff2') format('woff2'),
+      url('../fonts/BlissPro-Heavy.ttf')  format('truetype'),
+      url('../fonts/BlissPro-Heavy.svg') format('svg');
+}
+.mainFonts {
+	font-family: 'BlissProBold';
+	font-size: 24px;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+.mainFonts.big {
+	font-size: 36px;
+}
+.proItalic {
+	font-family: 'BlissProItalic';
+	font-size: 24px;
+}
+.lightItalic {
+	font-family: "BlissProLightItalic";
+	font-size: 18px;
+	color:  #000000;
+}
+.normal {
+	font-family: 'BlissPro';
+	font-size: 24px;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "snite",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "bobsya2801@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "private": true
+}

@@ -1,0 +1,57 @@
+body .page {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    padding: 0;
+}
+body .page .home{
+    background: #c3bfc3;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+}
+body .page .home .fp-tableCell {
+    vertical-align: top;
+}
+body .page .home .navbar-wrapper .container-fluid {
+    padding: 0;
+}
+body .page .home .navbar-wrapper .container-fluid .navbar {
+    background: #f16d9a;
+    border: none;
+}
+body .page .home .navbar-wrapper .container-fluid .navbar .btn {
+    background: #ffffff;
+    border-radius: 30px;
+    color: #f16d9a;
+    box-shadow: none;
+    text-shadow: none;
+    border: none;
+}
+body .page .home .navbar-wrapper .container-fluid .navbar .container-fluid .navbar-header {
+    width: 100%;
+}
+body .page .home .navbar-wrapper .container-fluid .navbar .container-fluid .navbar-header p {
+    color: #ffffff;
+    /* display: inline-block; */
+}
+body .page .home .navbar-wrapper .container-fluid .navbar .container-fluid .navbar-collapse ul.nav{
+    width: 100%;
+}
+body .page .home .navbar-wrapper .container-fluid .navbar .container-fluid .navbar-collapse ul.nav li {
+    float: none;
+    display: inline-block;
+}
+body .page .home .home_content .form-signin h2, body .page .home .home_content .form-signin input, body .page .home .home_content .form-signin button, body .page .home .home_content .form-signin label {
+    margin-bottom: 20px;
+}
+body .page .identification {
+    background: #e2e3e8;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body .page .identification .starter-template h2 {
+    margin-top: 0;
+}

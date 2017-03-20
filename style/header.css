@@ -1,0 +1,70 @@
+body {
+	.page {
+		.section.blue {
+			background: #62bde0;
+		}
+		.section {
+			font-family: 'BlissProLight';
+			.navbar {
+				position: relative;
+			    background: #00bce4;
+				border-bottom: 4px solid #008aa7;
+				margin-bottom: 0;
+				.container {
+					p.call {
+						color: #ffffff;
+						font-size: 16px;
+					}
+					a.navbar-brand, a.navbar-brand:focus, a.navbar-brand:active {
+						text-decoration: none;
+						border: none;
+						color: #ffffff;
+						font-size: 10px;
+	    			}
+					.menuCenter {
+						text-transform: uppercase;
+					    font-size: 24px;
+						.callback {
+						    margin-top: 18px;
+					        margin-bottom: 30px;
+							.btn-lg {
+							    background: #ffffff;
+							    color: #00bce4;
+							    border: none;
+							    border-radius: 30px;
+							}
+	    				}
+		    			.menu {
+							.navbar-collapse {
+								.nav-justified {
+									li {
+										a:hover, a:focus {
+											background: none;
+										}
+										a{
+											p {
+												color: #ffffff;
+												text-transform: uppercase;
+											    display: inline;
+											}
+										}
+									}
+									li.active {
+										a {
+										    background: none;
+		    								box-shadow: none;
+		    								p {
+											    border-bottom: 2px solid;
+		    									padding-bottom: 0px;
+		    								}
+										}
+									}
+								}
+							}
+		    			}
+					}
+				}
+			}
+		}
+	}
+}
